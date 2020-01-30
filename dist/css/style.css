@@ -5223,7 +5223,7 @@ body {
 
 .home {
   background-position: 81% 50%;
-  background-image: url(/dist/image/header@x1.png);
+  background-image: url(../dist/image/header@x1.png);
   background-repeat: no-repeat;
   background-color: #f9f8fb;
 }
@@ -5305,7 +5305,7 @@ body {
 
 .about {
   background-color: #00b5b5;
-  background-image: url(/dist/image/about@x1.png);
+  background-image: url(../dist/image/about@x1.png);
   background-position: 24% 50%;
   background-repeat: no-repeat;
   height: 700px;
@@ -5475,7 +5475,7 @@ body {
 .services {
   background-position: 75% 39%;
   background-repeat: no-repeat;
-  background-image: url(/dist/image/services@x1.png);
+  background-image: url(../dist/image/services@x1.png);
   background-color: #70bfff;
   padding-top: 105px;
   height: 790px;
@@ -5616,7 +5616,7 @@ body {
 }
 
 .subscribe {
-  background-image: url(/dist/image/subscribeX1.png);
+  background-image: url(../dist/image/subscribeX1.png);
   background-position: 92% 50%;
   background-repeat: no-repeat;
 }
@@ -5973,7 +5973,7 @@ body {
 }
 
 .contact__main {
-  background-image: url(../../../dist/image/contact@x1.png);
+  background-image: url(../dist/image/contact@x1.png);
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
